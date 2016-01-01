@@ -5,9 +5,11 @@ reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-baseurl: "/site"
-url: "http://pickoneclick.github.io/site"
+#baseurl: ""
+#url: ""
 
+baseurl: "/Site"
+url: "http://pickoneclick.github.io/Site"
 
 # Owner/author information
 owner:
