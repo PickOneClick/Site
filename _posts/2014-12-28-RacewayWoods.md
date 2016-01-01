@@ -5,7 +5,7 @@ date:   2014-12-28  13:19:08 -0600
 tags: ["2014", X-T1, "XF35mmF1.4 R"]
 comments: true
 ---
-![:title](/images/2014/2014_1228_DSCF0736.jpg)
+![{{ page.title }} Image]({{ site.baseurl }}/images/2014/2014_1228_DSCF0736.jpg)
 {: .prettyprint}  
 In the winter, Midwest forest preserves are a very bland thing to try and photograph  
 There may be something there and I just don't have the eye to see it  
