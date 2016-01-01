@@ -8,7 +8,7 @@ words_per_minute: 200
 #baseurl: ""
 #url: ""
 
-baseurl: "/sites"
+baseurl: "/site"
 url: "http://pickoneclick.github.io/site"
 
 # Owner/author information
