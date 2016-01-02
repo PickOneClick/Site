@@ -2,7 +2,7 @@
 layout: post
 title:  "Camp Is Rough"
 date:   2008-06-24  06:08:35 -0600
-tags: ["2008",  D300, "18.0-200.0 mm f/3.5-5.6", Genesis]
+tags: ["2008",  D300, "18.0-200.0 mm f/3.5-5.6", Genesis, FavoriteOfTheYear]
 ---
 ![{{ page.title }} Image]({{ site.baseurl }}/images/2008/2008_0624_DSC_6487.jpg)
 {: .prettyprint}  
