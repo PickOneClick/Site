@@ -8,6 +8,7 @@ words_per_minute: 200
 #baseurl: ""
 #url: ""
 
+#use this for GitHub site
 baseurl: "/site"
 url: "http://pickoneclick.github.io/site"
 
